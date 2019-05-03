@@ -1,0 +1,37 @@
+.block
+{
+    display: inline-block;
+}
+
+.image
+{
+    width: 50%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:5%;
+    height: 95%;
+}
+
+.Container
+{
+    width: 80%;
+    margin:2% auto;
+    background-image: url(https://i.imgur.com/w9gKymb.png);
+}
+
+.Container:hover
+{
+    width: 80%;
+    margin:2% auto;
+    background-image: url(https://i.imgur.com/mQzocxA.png);
+    
+}
+
+.text
+{
+    color: ivory;
+    width: 30%;
+    font-size: 4em;
+    font-style: italic;
+    text-align: center;
+}
